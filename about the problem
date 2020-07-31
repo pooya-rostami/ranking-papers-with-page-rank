@@ -9,3 +9,5 @@ pre requesties:
   1-	Jupyter lab or jupyter notebook 
   2-	Pyspark. For this you can use guidelines of sicara.ai 
   3-	Networkxx
+download the data by going to site http://old.inspirehep.net/info/hep/api and clicking on http://old.inspirehep.net/hep_records.json.gz
+  

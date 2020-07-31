@@ -5,3 +5,7 @@ Preprocess:
   1-	Delete Papers with no citation
   2-	Delete Papers with no writer
   3-	Delete Papers with no reference
+pre requesties:
+  1-	Jupyter lab or jupyter notebook 
+  2-	Pyspark. For this you can use guidelines of sicara.ai 
+  3-	Networkxx
